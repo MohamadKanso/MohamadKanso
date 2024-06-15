@@ -9,8 +9,6 @@ I'm based in London, England. I specalise in AI and web development with a passi
 
 ## Projects
 
-## Projects
-
 - **Bitcoin Trading Bot**: An advanced Bitcoin trading bot using LSTM neural networks, real-time market analysis, and live trading via Binance API.
 - **Predictious Trading Bot**: Python algorithm for stock trading, applying Black-Scholes Binary Option Pricing and web scraping for real-time data.
 - **AI Image Encryption**: AI-driven image encryption with TensorFlow and chaos theory, featuring a convolutional autoencoder for decryption.
