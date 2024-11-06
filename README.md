@@ -29,7 +29,7 @@
 
 ## 💫 About Me
 
-
+```python
 class QuantitativeTrader:
     def __init__(self):
         self.name = "Mohamad Kanso"
@@ -54,7 +54,9 @@ class QuantitativeTrader:
         }
 
 me = QuantitativeTrader()
+```
 
+> 🎓 MSc Data Science graduate specializing in AI-powered financial technologies and algorithmic trading. Proven track record of developing profitable trading systems with a 61% win rate and implementing ML solutions that drove 15%+ performance improvements.
 
 ## 🚀 Featured Projects
 
