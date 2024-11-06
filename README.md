@@ -78,16 +78,17 @@ mindmap
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>📈 Bitcoin Trading Bot (First Class Grade)</b></summary>
+<summary>▼ 📈 Bitcoin Trading Bot (First Class Grade)</summary>
 
 ### LSTM-based Cryptocurrency Trading System
+
 - 25.77% Profit in Backtesting
 - 665 Trades Executed with 6.2% ROI
 - Binance API Integration
 - Outperformed Linear Regression Models
 
 Key Features:
-```python
+
 # Bidirectional LSTM Architecture
 class BitcoinTradingModel:
     def __init__(self):
@@ -107,7 +108,6 @@ class BitcoinTradingModel:
             "roi": "6.2%",
             "trades": 665
         }
-```
 </details>
 
 <details>
