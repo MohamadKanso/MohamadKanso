@@ -1,6 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&random=false&width=1200&height=150&lines=MSc+Data+Science+Graduate+%7C+City%2C+University+of+London;AI+%26+Algorithmic+Trading+Expert+%7C+61%25+Win+Rate;Specialized+in+LSTM+Networks+%26+Smart+Money+Concepts)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=1200&height=200&lines=🎓+MSc+Data+Science+Graduate;🏛️+City%2C+University+of+London;🤖+AI+%26+Algorithmic+Trading+Expert+%7C+61%25+Win+Rate;📈+Specialized+in+Neural+Networks;💹+Smart+Money+Concepts+Expert;🔬+Pushing+the+Boundaries+of+AI)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=25&duration=4000&pause=1000&color=4F94EF&center=true&vCenter=true&multiline=true&width=1200&height=100&lines=700%2B+Live+Trades+Analyzed+%7C+1%2C500%2B+Backtested+Trades;First+Class+Dissertation%3A+Advanced+Bitcoin+Trading+Bot)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MohamadKanso&style=for-the-badge&color=2F81F7"/>
