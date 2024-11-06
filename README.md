@@ -30,31 +30,6 @@
 ## 💫 About Me
 
 
-class QuantitativeTrader:
-    def __init__(self):
-        self.name = "Mohamad Kanso"
-        self.role = "AI & Algorithmic Trading Expert"
-        self.education = "MSc Data Science @ City, University of London"
-        self.location = "London, UK 🇬🇧"
-        self.languages = ["English 🇬🇧", "Arabic 🇱🇧", "French 🇫🇷"]
-        self.expertise = [
-            "Machine Learning",
-            "Algorithmic Trading",
-            "Smart Money Concepts",
-            "Deep Learning",
-            "Quantitative Analysis"
-        ]
-    
-    def get_trading_stats(self):
-        return {
-            "win_rate": "61%",
-            "risk_reward": "3.62",
-            "backtested_trades": "1,500+",
-            "live_trades": "700+"
-        }
-
-me = QuantitativeTrader()
-
 
 ## 🚀 Featured Projects
 
