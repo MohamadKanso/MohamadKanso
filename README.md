@@ -29,7 +29,7 @@
 
 ## 💫 About Me
 
-```python
+
 class QuantitativeTrader:
     def __init__(self):
         self.name = "Mohamad Kanso"
@@ -54,7 +54,7 @@ class QuantitativeTrader:
         }
 
 me = QuantitativeTrader()
-```
+
 
 ## 🚀 Featured Projects
 
