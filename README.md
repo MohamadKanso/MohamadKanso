@@ -78,7 +78,7 @@ mindmap
 ## 🚀 Featured Projects
 
 <details>
-<summary>▼ 📈 Bitcoin Trading Bot (First Class Grade)</summary>
+<summary> 📈 Bitcoin Trading Bot (First Class Grade)</summary>
 LSTM-based Cryptocurrency Trading System
 
 25.77% Profit in Backtesting
