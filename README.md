@@ -1,16 +1,13 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&random=false&width=1200&height=150&lines=MSc+Data+Science+Graduate+%7C+City%2C+University+of+London;AI+%26+Algorithmic+Trading+Expert+%7C+61%25+Win+Rate;Specialized+in+LSTM+Networks+%26+Smart+Money+Concepts)](https://git.io/typing-svg)
 
-<!-- PROFILE VIEWS & SOCIAL BADGES -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MohamadKanso&style=for-the-badge&color=2F81F7"/>
   <a href="https://www.linkedin.com/in/mohamad-kanso/"><img src="https://img.shields.io/badge/LinkedIn-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:mohamadghorikanso@gmail.com"><img src="https://img.shields.io/badge/Email-2F81F7?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-<!-- ML EXPERTISE MINDMAP -->
 ```mermaid
 mindmap
   root((Expertise))
@@ -46,7 +43,6 @@ mindmap
         XGBoost
 ```
 
-<!-- GITHUB STATS -->
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=MohamadKanso&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=2F81F7&icon_color=2F81F7" height="175"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamadKanso&theme=tokyonight&hide_border=true&background=1A1B27&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" height="175"/>
@@ -79,37 +75,35 @@ mindmap
 
 <details>
 <summary> 📈 Bitcoin Trading Bot (First Class Grade)</summary>
-LSTM-based Cryptocurrency Trading System
 
-25.77% Profit in Backtesting
-665 Trades Executed with 6.2% ROI
-Binance API Integration
-Outperformed Linear Regression Models
+### LSTM-based Cryptocurrency Trading System
+
+- 25.77% Profit in Backtesting
+- 665 Trades Executed with 6.2% ROI
+- Binance API Integration
+- Outperformed Linear Regression Models
 
 Key Features:
-Features:
 
-Technical Indicators
-Market Data
-Volatility Metrics
+**Features:**
+- Technical Indicators
+- Market Data
+- Volatility Metrics
 
-Architecture:
+**Architecture:**
+- Type: Bidirectional LSTM
+- Layers: Multiple
+- Regularization: Dropout
+- Optimizer: Adam
 
-Type: Bidirectional LSTM
-Layers: Multiple
-Regularization: Dropout
-Optimizer: Adam
-
-Performance:
-
-Profit: 25.77%
-ROI: 6.2%
-Trades: 665
-
+**Performance:**
+- Profit: 25.77%
+- ROI: 6.2%
+- Trades: 665
 </details>
 
 <details>
-<summary><b>🤖 Autonomous AI Research Platform</b></summary>
+<summary> 🤖 Autonomous AI Research Platform</summary>
 
 ### Advanced ML Architecture
 - 20% Performance Improvement
@@ -119,7 +113,7 @@ Trades: 665
 </details>
 
 <details>
-<summary><b>💹 Predictious Trading Bot</b></summary>
+<summary> 💹 Predictious Trading Bot</summary>
 
 ### Quantitative Trading System
 - Black-Scholes Option Pricing
@@ -160,6 +154,5 @@ Trades: 665
   </a>
 </div>
 
-<!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 </div>
