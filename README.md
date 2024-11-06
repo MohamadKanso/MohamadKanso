@@ -27,7 +27,7 @@
     <img src="https://img.shields.io/badge/Trading_ROI-25.77%25-green?style=for-the-badge"/>
 </p>
 
-## 💫 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Sickle.png" alt="Hammer and Sickle" width="25" height="25" /> About Me
 
 ```python
 class QuantitativeTrader:
@@ -56,7 +56,7 @@ class QuantitativeTrader:
 me = QuantitativeTrader()
 ```
 
-> 🎓 MSc Data Science graduate specializing in AI-powered financial technologies and algorithmic trading. Proven track record of developing profitable trading systems with a 61% win rate and implementing ML solutions that drove 15%+ performance improvements.
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> MSc Data Science graduate specializing in AI-powered financial technologies and algorithmic trading. Proven track record of developing profitable trading systems with a 61% win rate and implementing ML solutions that drove 15%+ performance improvements.
 
 ## 🚀 Featured Projects
 
