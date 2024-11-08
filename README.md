@@ -29,10 +29,12 @@ mindmap
         MATLAB
         R
         SQL
+        Ruby
       Proficient
         JavaScript
         C++
         C#
+        C
     Frameworks
       Deep Learning
         TensorFlow
@@ -43,6 +45,7 @@ mindmap
         Pandas
         NumPy
         XGBoost
+        LightGBM
 ```
 
 <p align="center">
@@ -71,6 +74,16 @@ mindmap
 - Database Management
 </td>
 </tr>
+<tr>
+<td colspan="2">
+<img src="https://img.shields.io/badge/Pivos_Consulting-Business_Analyst_Intern-2F81F7?style=for-the-badge&logo=analytics&logoColor=white"/>
+
+- Analyzed 50,000+ records using Python & Tableau
+- Led team of 4 analysts in dashboard creation
+- Reduced report generation time by 60%
+- Improved cross-department collaboration
+</td>
+</tr>
 </table>
 
 ## 🚀 Featured Projects
@@ -84,6 +97,7 @@ mindmap
 - 665 Trades Executed with 6.2% ROI
 - Binance API Integration
 - Outperformed Linear Regression Models
+- 99.53% R² Prediction Accuracy
 
 Key Features:
 
@@ -95,8 +109,9 @@ Key Features:
 **Architecture:**
 - Type: Bidirectional LSTM
 - Layers: Multiple
-- Regularization: Dropout
-- Optimizer: Adam
+- Regularization: Dropout (0.3)
+- Optimizer: Adam (lr=0.0005)
+- Parameters: 227,745
 
 **Performance:**
 - Profit: 25.77%
@@ -124,6 +139,26 @@ Key Features:
 - Advanced Volatility Analysis
 </details>
 
+<details>
+<summary> 💳 Credit Risk Prediction Model</summary>
+
+### ML-Based Risk Assessment
+- 0.92 AUC Score
+- Real-time Scoring System
+- Cloud Platform Deployment
+- Integrated with Risk Teams
+</details>
+
+<details>
+<summary> 📊 Portfolio Optimisation Model</summary>
+
+### Advanced Portfolio Management
+- Multi-asset Optimization
+- Sharpe Ratio Analysis
+- Mean-variance Optimization
+- 12% Improvement in Risk-adjusted Returns
+</details>
+
 ## 🛠️ Technical Stack
 
 <div align="center">
@@ -135,6 +170,12 @@ Key Features:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-2F81F7?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-2F81F7?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Expert-2F81F7?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+## 🌐 Languages
+
+![English](https://img.shields.io/badge/English-Fluent-2F81F7?style=for-the-badge)
+![Arabic](https://img.shields.io/badge/Arabic-Fluent-2F81F7?style=for-the-badge)
+![French](https://img.shields.io/badge/French-Conversational-2F81F7?style=for-the-badge)
 
 ## 🏆 Achievements
 
