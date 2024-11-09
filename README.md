@@ -192,7 +192,7 @@ Key Features:
   <a href="mailto:mohamadghorikanso@gmail.com">
     <img src="https://img.shields.io/badge/Email-2F81F7?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/mohamad-kanso/">
+  <a href="https://www.linkedin.com/in/mohamadkanso/">
     <img src="https://img.shields.io/badge/LinkedIn-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
