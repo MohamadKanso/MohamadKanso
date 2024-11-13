@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=35&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=1200&height=200&lines=🎓+MSc+Data+Science+Graduate;🏛️+City%2C+University+of+London;🤖+AI+%26+Algorithmic+Trading+Expert+%7C+61%25+Win+Rate;📈+Specialised+in+LSTM+Networks;💹+Smart+Money+Concepts+Expert;🔬+Pushing+the+Boundaries+of+AI)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=25&duration=4000&pause=1000&color=4F94EF&center=true&vCenter=true&multiline=true&width=1200&height=100&lines=700%2B+Live+Trades+Analyzed+%7C+1%2C500%2B+Backtested+Trades;First+Class+Dissertation%3A+Advanced+Bitcoin+Trading+Bot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=25&duration=4000&pause=1000&color=4F94EF&center=true&vCenter=true&multiline=true&width=1200&height=100&lines=700%2B+Live+Trades+Analysed+%7C+1%2C500%2B+Backtested+Trades;First+Class+Dissertation%3A+Advanced+Bitcoin+Trading+Bot)](https://git.io/typing-svg)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MohamadKanso&style=for-the-badge&color=2F81F7"/>
@@ -62,7 +62,7 @@ mindmap
 
 - 61% Win Rate on $10,000 Live Account
 - 3.62 Risk-Reward Ratio
-- 700+ Live Trades Analyzed
+- 700+ Live Trades Analysed
 - 1,500+ Backtested Trades
 </td>
 <td>
@@ -78,7 +78,7 @@ mindmap
 <td colspan="2">
 <img src="https://img.shields.io/badge/Pivos_Consulting-Business_Analyst_Intern-2F81F7?style=for-the-badge&logo=analytics&logoColor=white"/>
 
-- Analyzed 50,000+ records using Python & Tableau
+- Analysed 50,000+ records using Python & Tableau
 - Led team of 4 analysts in dashboard creation
 - Reduced report generation time by 60%
 - Improved cross-department collaboration
@@ -109,8 +109,8 @@ Key Features:
 **Architecture:**
 - Type: Bidirectional LSTM
 - Layers: Multiple
-- Regularization: Dropout (0.3)
-- Optimizer: Adam (lr=0.0005)
+- Regularisation: Dropout (0.3)
+- Optimiser: Adam (lr=0.0005)
 - Parameters: 227,745
 
 **Performance:**
@@ -153,9 +153,9 @@ Key Features:
 <summary> 📊 Portfolio Optimisation Model</summary>
 
 ### Advanced Portfolio Management
-- Multi-asset Optimization
+- Multi-asset Optimisation
 - Sharpe Ratio Analysis
-- Mean-variance Optimization
+- Mean-variance Optimisation
 - 12% Improvement in Risk-adjusted Returns
 </details>
 
