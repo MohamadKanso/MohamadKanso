@@ -166,10 +166,10 @@ Key Features:
 - 🏆 Computer Vision Creation Challenge Winner (2023)
 - 💹 True Forex Funds Certified Trader
 
-## 📫 Let's Connect!
+## 📫  Connect
 
 <div align="center">
-  <i>Open to collaborating on innovative fintech and AI projects!</i>
+  <i>Open to collaborating on fintech and AI projects.</i>
   <br><br>
   <a href="mailto:mohamadghorikanso@gmail.com">
     <img src="https://img.shields.io/badge/Email-2F81F7?style=for-the-badge&logo=gmail&logoColor=white"/>
