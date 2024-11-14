@@ -63,15 +63,15 @@ mindmap
 - 61% Win Rate on $10,000 Live Account
 - 3.62 Risk-Reward Ratio
 - 700+ Live Trades Analysed
-- 1,500+ Backtested Trades
+- 1,500+ Backtested Trades on AUD-USD and EUR-USD
 </td>
 <td>
 <img src="https://img.shields.io/badge/Software_Academy-Python_Tutor-2F81F7?style=for-the-badge&logo=python&logoColor=white"/>
 
 - Mentored 50+ Students
+- Generated £15,000 in Course Sales
 - 60% Conversion Rate
-- Python & Unreal Engine
-- Database Management
+- 43% Taster Session Conversion
 </td>
 </tr>
 <tr>
@@ -80,8 +80,8 @@ mindmap
 
 - Analysed 50,000+ records using Python & Tableau
 - Led team of 4 analysts in dashboard creation
-- Reduced report generation time by 60%
-- Improved cross-department collaboration
+- Reduced report generation time from 5 to 2 days
+- Improved cross-department collaboration from 48 to 38 hours
 </td>
 </tr>
 </table>
@@ -93,11 +93,10 @@ mindmap
 
 ### LSTM-based Cryptocurrency Trading System
 
-- 25.77% Profit in Backtesting
+- 99.53% R² Prediction Accuracy
 - 665 Trades Executed with 6.2% ROI
 - Binance API Integration
-- Outperformed Linear Regression Models
-- 99.53% R² Prediction Accuracy
+- Outperformed Linear Regression Models (25.77% ROI)
 
 Key Features:
 
@@ -114,29 +113,9 @@ Key Features:
 - Parameters: 227,745
 
 **Performance:**
-- Profit: 25.77%
+- R² Accuracy: 99.53%
 - ROI: 6.2%
 - Trades: 665
-</details>
-
-<details>
-<summary> 🤖 Autonomous AI Research Platform</summary>
-
-### Advanced ML Architecture
-- 20% Performance Improvement
-- Reinforcement Learning Integration
-- Neural Architecture Search
-- PyTorch & Ray Implementation
-</details>
-
-<details>
-<summary> 💹 Predictious Trading Bot</summary>
-
-### Quantitative Trading System
-- Black-Scholes Option Pricing
-- 16.4% Trade Success Improvement
-- Live Data Scraping
-- Advanced Volatility Analysis
 </details>
 
 <details>
@@ -146,7 +125,7 @@ Key Features:
 - 0.92 AUC Score
 - Real-time Scoring System
 - Cloud Platform Deployment
-- Integrated with Risk Teams
+- Integration with Risk Teams using Scikit-learn and XGBoost
 </details>
 
 <details>
