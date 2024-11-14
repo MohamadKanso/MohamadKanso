@@ -170,6 +170,8 @@ Key Features:
 
 <div align="center">
   <i>Open to collaborating on fintech and AI projects.</i>
+  <br>
+  <i>mohamadghorikanso@gmail.com</i>
   <br><br>
   <a href="mailto:mohamadghorikanso@gmail.com">
     <img src="https://img.shields.io/badge/Email-2F81F7?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -178,7 +180,6 @@ Key Features:
     <img src="https://img.shields.io/badge/LinkedIn-2F81F7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 </div>
 
