@@ -141,7 +141,7 @@ Key Features:
 ## 🛠️ Technical Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,r,matlab,aws,docker,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,r,matlab,git&theme=dark" />
 </div>
 
 ### Advanced Proficiency
@@ -149,6 +149,11 @@ Key Features:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-2F81F7?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-2F81F7?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Expert-2F81F7?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-Advanced-2F81F7?style=for-the-badge&logo=python&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-Advanced-2F81F7?style=for-the-badge&logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-Expert-2F81F7?style=for-the-badge&logo=matlab&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Expert-2F81F7?style=for-the-badge&logo=pandas&logoColor=white)
+
 
 ## 🌐 Languages
 
@@ -178,3 +183,4 @@ Key Features:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 </div>
+
