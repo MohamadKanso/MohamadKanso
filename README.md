@@ -139,9 +139,8 @@ Key Features:
 </details>
 
 ## 🛠️ Technical Stack
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,r,matlab,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,r,matlab,django,git,ruby,java,cpp,cs&theme=dark" />
 </div>
 
 ### Advanced Proficiency
@@ -153,7 +152,6 @@ Key Features:
 ![LightGBM](https://img.shields.io/badge/LightGBM-Advanced-2F81F7?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-Expert-2F81F7?style=for-the-badge&logo=matlab&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-Expert-2F81F7?style=for-the-badge&logo=pandas&logoColor=white)
-
 
 ## 🌐 Languages
 
@@ -183,4 +181,7 @@ Key Features:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
 </div>
+
+
+
 
