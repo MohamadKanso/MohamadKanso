@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=EE0000&height=6"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1E7A3C&height=6"/>
 
 # `■ ■ ■ KANSO.SYS // ONLINE ■ ■ ■`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&weight=600&size=24&duration=4000&pause=1000&color=EE0000&center=true&vCenter=true&width=800&height=50&lines=INITIALIZING_LOCAL_AI_MODELS...;CONNECTING_TO_AZURE_DATABRICKS...;PROCESSING_50M_RECORDS...;SYSTEM_READY." alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&weight=600&size=24&duration=4000&pause=1000&color=1E7A3C&center=true&vCenter=true&width=800&height=50&lines=INITIALIZING_LOCAL_AI_MODELS...;CONNECTING_TO_AZURE_DATABRICKS...;PROCESSING_50M_RECORDS...;SYSTEM_READY." alt="Typing SVG" />
 
 <p>
   <a href="https://www.linkedin.com/in/mohamadkanso/"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/></a>
-  <a href="mailto:mohamadghorikanso@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=EE0000&labelColor=000000"/></a>
+  <a href="mailto:mohamadghorikanso@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=1E7A3C&labelColor=000000"/></a>
   <a href="https://github.com/MohamadKanso"><img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a>
 </p>
 
@@ -71,7 +71,7 @@ AWARDS  : UKMT Senior Math (Silver)
 <td width="50%" valign="top">
 
 **`> MURMUR_X // LOCAL_VOICE_AI`** <br>
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-EE0000?style=flat-square"/> <img src="https://img.shields.io/badge/LATENCY-SUB_2S-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-1E7A3C?style=flat-square"/> <img src="https://img.shields.io/badge/LATENCY-SUB_2S-000000?style=flat-square"/>
 <br>
 A fully local, privacy-first AI pipeline optimizing for hardware constraints with modular Python orchestration. <br>
 *`Audio Capture → Whisper.cpp → Qwen-2.5 (~3B) → TTS`*
@@ -80,7 +80,7 @@ A fully local, privacy-first AI pipeline optimizing for hardware constraints wit
 <td width="50%" valign="top">
 
 **`> DATABRICKS_ETL // COGNIZANT`** <br>
-<img src="https://img.shields.io/badge/SCALE-50M_DAILY-EE0000?style=flat-square"/> <img src="https://img.shields.io/badge/ORG-HMRC-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/SCALE-50M_DAILY-1E7A3C?style=flat-square"/> <img src="https://img.shields.io/badge/ORG-HMRC-000000?style=flat-square"/>
 <br>
 Enterprise data transformations lowering analytical latency by ~40%. <br>
 *`Raw → Bronze → Silver → Gold → MLflow`*
@@ -93,7 +93,7 @@ Enterprise data transformations lowering analytical latency by ~40%. <br>
 <br>
 
 **`> TIME_SERIES_LSTM // MSci`** <br>
-<img src="https://img.shields.io/badge/SCORE-FIRST_CLASS-EE0000?style=flat-square"/> <img src="https://img.shields.io/badge/MODEL-LSTM_NETWORK-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/SCORE-FIRST_CLASS-1E7A3C?style=flat-square"/> <img src="https://img.shields.io/badge/MODEL-LSTM_NETWORK-000000?style=flat-square"/>
 <br>
 Eliminated look-ahead bias and data leakage using regime-aware feature engineering. Evaluated against linear baselines.
 
@@ -103,7 +103,7 @@ Eliminated look-ahead bias and data leakage using regime-aware feature engineeri
 <br>
 
 **`> DREAMSENSE // MULTI_MODAL`** <br>
-<img src="https://img.shields.io/badge/VIBE-WINNER-EE0000?style=flat-square"/> <img src="https://img.shields.io/badge/UI-STREAMLIT-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/VIBE-WINNER-1E7A3C?style=flat-square"/> <img src="https://img.shields.io/badge/UI-STREAMLIT-000000?style=flat-square"/>
 <br>
 Voice-first multi-modal LLM app using Hugging Face models optimising text, image, and TTS generation from a single prompt.
 
@@ -112,7 +112,7 @@ Voice-first multi-modal LLM app using Hugging Face models optimising text, image
 </table>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamadKanso&show_icons=true&hide_border=true&bg_color=00000000&text_color=a0a0a0&icon_color=EE0000&title_color=EE0000&border_radius=0" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MohamadKanso&show_icons=true&hide_border=true&bg_color=00000000&text_color=a0a0a0&icon_color=1E7A3C&title_color=1E7A3C&border_radius=0" height="150"/>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=EE0000&height=4"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1E7A3C&height=4"/>
 </div>
