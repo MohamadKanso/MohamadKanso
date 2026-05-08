@@ -7,6 +7,12 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:03040d,25:080b22,55:180a36,80:080b22,100:03040d&height=220&text=MOHAMAD%20KANSO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=✦%20%20Python%20%C2%B7%20GenAI%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20AI%20Automation%20%20✦&descSize=15&descAlignY=62&descColor=8be9fd" alt="header"/>
 </div>
 
+<!-- ░░░ CUSTOM GALAXY — personalised spiral with project stars & tech labels ░░░ -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MohamadKanso/MohamadKanso/main/assets/galaxy.svg"
+       alt="Animated personal galaxy" width="100%"/>
+</div>
+
 <!-- ░░░ DEEP-SPACE ORBIT ANIMATION ░░░ -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/MohamadKanso/MohamadKanso/main/assets/orbit.svg"
