@@ -1,303 +1,321 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    MOHAMAD KANSO — GITHUB PROFILE                  -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
+<!--                     MOHAMAD KANSO  ·  GITHUB PROFILE                   -->
+<!-- ════════════════════════════════════════════════════════════════════════ -->
 
-<!-- ANIMATED SPACE HEADER -->
+<!-- ░░░ VENOM HEADER — animated deep-space gradient ░░░ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:04060f,25:0b0e28,55:1a0e3a,80:0b0e28,100:04060f&height=240&section=header&text=MOHAMAD%20KANSO&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=✦%20%20Python%20%C2%B7%20GenAI%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20AI%20Automation%20%20✦&descSize=15&descAlignY=60&descColor=8be9fd" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:03040d,25:080b22,55:180a36,80:080b22,100:03040d&height=220&text=MOHAMAD%20KANSO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=✦%20%20Python%20%C2%B7%20GenAI%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20AI%20Automation%20%20✦&descSize=15&descAlignY=62&descColor=8be9fd" alt="header"/>
 </div>
 
-<!-- ORBIT ANIMATION -->
+<!-- ░░░ DEEP-SPACE ORBIT ANIMATION ░░░ -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MohamadKanso/MohamadKanso/main/assets/orbit.svg" alt="Space Orbit Animation" width="100%"/>
+  <img src="https://raw.githubusercontent.com/MohamadKanso/MohamadKanso/main/assets/orbit.svg"
+       alt="Animated deep-space orbit" width="100%"/>
 </div>
 
-<!-- TYPING ANIMATION -->
+<!-- ░░░ TYPING SVG ░░░ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2800&pause=700&color=00D4FF&center=true&vCenter=true&width=760&height=52&lines=🛸+Building+local+LLM+systems+%7C+sub-2s+inference+latency;🌌+GenAI+%40+Cognizant+%7C+UK+Government+AI+%26+Analytics;🚀+RAG+%7C+LangChain+%7C+Vector+DBs+%7C+Ollama+%7C+Local+LLMs;⚡+40%25+latency+reduction+across+50M-record+pipelines;🔒+VoiceSafeKit+%7C+CodeSentry+%7C+MurmurX+%7C+DreamSense;🏆+Computer+Vision+Challenge+Winner+·+MSci+Data+Science" alt="Typing SVG"/>
-</div>
-
-<br/>
-
-<!-- CONTACT & SOCIAL BADGES -->
-<div align="center">
-  <a href="https://linkedin.com/in/mohamadkanso">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="mailto:kanso1245@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/MohamadKanso">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=MohamadKanso&label=Profile+Views&color=00d4ff&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=650&color=00D4FF&center=true&vCenter=true&width=800&height=50&lines=🛸+Building+local+LLM+systems+%7C+sub-2s+end-to-end+latency;🌌+GenAI+%40+Cognizant+%7C+UK+Government+AI+%26+Analytics;🚀+RAG+·+LangChain+·+Vector+DBs+·+Ollama+·+Local+LLMs;⚡+40%25+latency+reduction+on+50M-record+Databricks+pipelines;🔒+VoiceSafeKit+·+CodeSentry+·+MurmurX+·+DreamSense;🏆+CV+Challenge+Winner+·+Cognizant+Vibe+Challenge+Winner" alt="Typing SVG"/>
 </div>
 
 <br/>
 
-<!-- GRADIENT DIVIDER -->
+<!-- ░░░ CONTACT BADGES ░░░ -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamadkanso)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanso1245@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohamadKanso)
+&nbsp;
+![Views](https://komarev.com/ghpvc/?username=MohamadKanso&label=Profile+Views&color=00d4ff&style=for-the-badge)
+
+</div>
+
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
-
 <br/>
 
-<!-- ABOUT + STATUS -->
+<!-- ════════════════════════════════════════════════════════════════
+     §1  CODE BIO — Python class (rare, shows personality + depth)
+     ════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ### 🌌 &nbsp; Navigating the AI Frontier
 
-<p>
-Python & GenAI Engineer architecting intelligence from raw data — building RAG pipelines, LLM-backed automation and enterprise data infrastructure at <strong>Cognizant</strong> for UK Government clients.<br/>
-Architect of privacy-first, fully local AI systems with <strong>sub-2s inference</strong> and <strong>zero cloud dependency</strong>.
-</p>
+</div>
+
+```python
+class MohamadKanso:
+    """Python & GenAI Engineer | LLM Applications · RAG Systems · AI Automation"""
+
+    role     = "Python & GenAI Engineer"
+    company  = "Cognizant  —  AI & Analytics Graduate"
+    location = "London, UK  🇬🇧"
+    degree   = "MSci Data Science  —  City, University of London  (2:1)"
+
+    stack = {
+        "genai_llms"  : ["LangChain", "RAG", "FAISS", "ChromaDB", "Ollama", "Whisper.cpp"],
+        "ai_ml"       : ["PyTorch", "scikit-learn", "XGBoost", "LightGBM", "MLflow"],
+        "data_cloud"  : ["PySpark", "Databricks", "Azure Data Factory", "PostgreSQL"],
+        "backend"     : ["Python", "Flask", "Docker", "GitHub Actions", "pytest"],
+        "local_ai"    : ["Llama 3.2", "Qwen-2.5 3B", "sub-2s latency", "zero cloud"],
+    }
+
+    achievements = [
+        "40 % latency reduction across 50 M-record Databricks pipelines",
+        "80 % cost reduction via fully local LLM stack vs paid APIs",
+        "First-Class dissertation (76 %)  —  BTC/USD time-series LSTM",
+        "Computer Vision Challenge Winner  ·  Cognizant Vibe Challenge Winner",
+    ]
+
+    def current_mission(self) -> str:
+        return "Building enterprise RAG systems & LLM-backed automation @ Cognizant 🚀"
+```
 
 <br/>
 
-<img src="https://img.shields.io/badge/🔭%20Currently%20%40-Cognizant%20·%20AI%20%26%20Analytics%20Graduate-00d4ff?style=flat-square&labelColor=0d1117" alt="Current Position"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/📍-London%2C%20UK-7b5ea7?style=flat-square&labelColor=0d1117" alt="Location"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🎓%20MSci%20Data%20Science-City%2C%20University%20of%20London-ff6b9d?style=flat-square&labelColor=0d1117" alt="Education"/>
+<div align="center">
+
+![At Cognizant](https://img.shields.io/badge/🔭%20Currently%20%40-Cognizant%20·%20AI%20%26%20Analytics-00d4ff?style=flat-square&labelColor=0d1117)
+&nbsp;
+![London](https://img.shields.io/badge/📍-London%2C%20UK-7b5ea7?style=flat-square&labelColor=0d1117)
+&nbsp;
+![MSci](https://img.shields.io/badge/🎓%20MSci%20Data%20Science-City%2C%20University%20of%20London-ff6b9d?style=flat-square&labelColor=0d1117)
 
 </div>
 
 <br/>
-
-<!-- GRADIENT DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
-
 <br/>
+
+<!-- ════════════════════════════════════════════════════════════════
+     §2  TECH ARSENAL
+     ════════════════════════════════════════════════════════════════ -->
 
 ## 🛸 &nbsp; Tech Arsenal
 
 <div align="center">
 
-**Core Languages**
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,bash,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,bash,cpp&theme=dark"/>
 
 <br/><br/>
 
 **AI · GenAI · LLMs**
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
 
 <br/>
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=flat-square&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-00416A?style=flat-square&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-00416A?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper.cpp-412991?style=flat-square&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189ABF?style=flat-square&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper.cpp-412991?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189ABF?style=flat-square)
 
 <br/><br/>
 
 **Data Engineering · Cloud**
 
-<img src="https://skillicons.dev/icons?i=azure,postgres,docker,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=azure,postgres,docker,linux&theme=dark"/>
 
 <br/>
 
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20%2F%20PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![ADF](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 <br/><br/>
 
 **Dev & Frontend**
 
-<img src="https://skillicons.dev/icons?i=git,github,flask,react,streamlit&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,flask,react,streamlit&theme=dark"/>
 
 <br/>
 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 </div>
 
 <br/>
-
-<!-- GRADIENT DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
-
 <br/>
+
+<!-- ════════════════════════════════════════════════════════════════
+     §3  FEATURED PROJECTS
+     ════════════════════════════════════════════════════════════════ -->
 
 ## 🌠 &nbsp; Mission Log — Featured Projects
 
 <div align="center">
 <table>
 
+<!-- ── Row 1 ── -->
 <tr>
-<!-- VoiceSafeKit -->
 <td width="50%" valign="top">
 <div align="center">
-<h3>🔒 VoiceSafeKit</h3>
 
-![Status](https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square)
+### 🔒 VoiceSafeKit
+
+![Live](https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat-square)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-<br/>
+![Whisper](https://img.shields.io/badge/Whisper.js-412991?style=flat-square)
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Privacy & safety layer for voice assistants.**<br/>
-Classifies transcripts as `SAFE / REDACT / REVIEW / BLOCK` before LLM ingestion. Browser mic recording, Whisper in-browser transcription, PII detection (emails, cards, addresses), Python CLI, full pytest coverage.
+Classifies transcripts as `SAFE / REDACT / REVIEW / BLOCK` before LLM ingestion. Browser mic → Whisper.cpp in-browser transcription → PII detection (emails, card numbers, addresses) → redacted output. Python CLI, pytest coverage, live demo.
 
 <br/>
 
-[![View Project](https://img.shields.io/badge/View%20Project-%E2%86%92-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MohamadKanso/VoiceSafeKit)
+[![→ View Project](https://img.shields.io/badge/View_Project_→-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MohamadKanso/VoiceSafeKit)
+
 </div>
 </td>
-
-<!-- CodeSentry -->
 <td width="50%" valign="top">
 <div align="center">
-<h3>🤖 CodeSentry</h3>
 
-![Status](https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square)
+### 🤖 CodeSentry
+
+![Live](https://img.shields.io/badge/STATUS-LIVE-brightgreen?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-<br/>
-
 **Local AI code-review & auto-fix platform.**<br/>
-Scans full codebases for bugs & security issues, caches unchanged results for instant re-runs, exports Markdown reports — zero cloud dependency. Git-aware: staged reviews, commit analysis, pre-commit hooks, patch-based auto-fix.
+Full codebase scan for bugs & security issues. Caches unchanged files for instant re-runs. Zero cloud dependency. Git-aware: staged reviews, commit-level analysis, pre-commit hooks, patch-based auto-fix, Markdown reports, GitHub Actions CI.
 
 <br/>
 
-[![View Project](https://img.shields.io/badge/View%20Project-%E2%86%92-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MohamadKanso/CodeSentry)
+[![→ View Project](https://img.shields.io/badge/View_Project_→-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MohamadKanso/CodeSentry)
+
 </div>
 </td>
 </tr>
 
+<!-- ── Row 2 ── -->
 <tr>
-<!-- MurmurX -->
 <td width="50%" valign="top">
 <div align="center">
-<h3>🎙️ MurmurX</h3>
 
-![Latency](https://img.shields.io/badge/LATENCY-sub--2s-ff6b9d?style=flat-square)
-![Cloud](https://img.shields.io/badge/100%25%20LOCAL-no%20APIs-7b5ea7?style=flat-square)
+### 🎙️ MurmurX
+
+![sub-2s](https://img.shields.io/badge/LATENCY-sub--2s-ff6b9d?style=flat-square)
+![100% Local](https://img.shields.io/badge/100%25_LOCAL-no_APIs-7b5ea7?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-<br/>
 
 **Fully local voice-first AI pipeline.**<br/>
-WebRTC VAD → PyAudio 16kHz → ffmpeg → Whisper.cpp → Qwen-2.5 3B → TTS. Achieves sub-2s end-to-end latency on M1 Pro. No cloud, no APIs, no cost. Modular, privacy-first, production-grade.
+WebRTC VAD → PyAudio 16 kHz PCM → ffmpeg → Whisper.cpp → Qwen-2.5 3B → TTS. Sub-2s end-to-end on M1 Pro. Inspired by Sesame's CSM. No cloud, no APIs, no cost. Modular, privacy-first, production-grade architecture.
 
 <br/>
 
-[![View Project](https://img.shields.io/badge/View%20Project-%E2%86%92-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MohamadKanso/MurmurX)
+[![→ View Project](https://img.shields.io/badge/View_Project_→-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MohamadKanso/MurmurX)
+
 </div>
 </td>
-
-<!-- DreamSense -->
 <td width="50%" valign="top">
 <div align="center">
-<h3>🎭 DreamSense</h3>
 
-![Winner](https://img.shields.io/badge/Cognizant%20Vibe%20Challenge-WINNER-ffd700?style=flat-square)
-![Multimodal](https://img.shields.io/badge/Multi--Modal-GenAI-ff6b9d?style=flat-square)
+### 🎭 DreamSense
 
-<br/>
+![Winner](https://img.shields.io/badge/Cognizant_Vibe_Challenge-WINNER_🏆-ffd700?style=flat-square)
+![Multi-Modal](https://img.shields.io/badge/Multi--Modal-GenAI-ff6b9d?style=flat-square)
 
 **Multi-modal GenAI application.**<br/>
-Led end-to-end build in a 9-person Cognizant graduate team. Orchestrated Zephyr-7B (reasoning) + Stable Diffusion (image gen) + Google TTS (audio) into a single pipeline with downloadable outputs. Won Cognizant Vibe Coding Challenge 2025.
+Led end-to-end build in 9-person Cognizant grad team. Orchestrated **Zephyr-7B** (reasoning) + **Stable Diffusion** (image gen) + **Google TTS** (audio) into a single orchestration layer with downloadable outputs. Won Cognizant Vibe Coding Challenge 2025.
 
 <br/>
 
-[![View Project](https://img.shields.io/badge/View%20Project-%E2%86%92-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MohamadKanso/DreamSense)
+[![→ View Project](https://img.shields.io/badge/View_Project_→-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MohamadKanso/DreamSense)
+
 </div>
 </td>
 </tr>
 
+<!-- ── Row 3 ── -->
 <tr>
-<!-- IncidentForge -->
 <td width="50%" valign="top">
 <div align="center">
-<h3>⚡ IncidentForge</h3>
 
-![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=flat-square)
+### ⚡ IncidentForge
+
+![Active](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AI SRE](https://img.shields.io/badge/AI%20SRE-Evaluation-7b5ea7?style=flat-square)
-
-<br/>
+![AI SRE](https://img.shields.io/badge/AI_SRE-Evaluation-7b5ea7?style=flat-square)
 
 **Synthetic production incidents for AI SRE agents.**<br/>
-Generates realistic production incidents and root cause analysis scenarios for evaluating AI-driven site reliability engineering agents. Structured for rigorous benchmarking of LLM reasoning under operational pressure.
+Generates realistic production incidents + root-cause analysis scenarios for benchmarking LLM-driven site-reliability engineering agents under operational pressure. Structured for rigorous, reproducible evaluation.
 
 <br/>
 
-[![View Project](https://img.shields.io/badge/View%20Project-%E2%86%92-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MohamadKanso/IncidentForge)
+[![→ View Project](https://img.shields.io/badge/View_Project_→-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MohamadKanso/IncidentForge)
+
 </div>
 </td>
-
-<!-- Dissertation -->
 <td width="50%" valign="top">
 <div align="center">
-<h3>📈 BTC Time-Series ML System</h3>
 
-![Grade](https://img.shields.io/badge/First%20Class-76%25-ffd700?style=flat-square)
+### 📈 BTC Time-Series ML System
+
+![First Class](https://img.shields.io/badge/First_Class-76%25-ffd700?style=flat-square)
 ![LSTM](https://img.shields.io/badge/LSTM-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![WFV](https://img.shields.io/badge/Walk--Forward%20Validation-00d4ff?style=flat-square)
-
-<br/>
+![WFV](https://img.shields.io/badge/Walk--Forward_Validation-00d4ff?style=flat-square)
 
 **MSci Dissertation — First-Class mark (76%).**<br/>
-LSTM + regression models on intraday BTC/USD data with walk-forward validation and technical indicator engineering. Strict anti-lookahead protocols, regime-aware feature engineering, evaluated against linear baselines.
+LSTM + regression models on intraday BTC/USD data with walk-forward validation and technical indicator engineering. Strict anti-lookahead protocols, regime-aware feature engineering. Evaluated against linear baselines across rolling windows.
 
 <br/>
 
-[![View Project](https://img.shields.io/badge/View%20Project-%E2%86%92-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MohamadKanso/Dissertation)
+[![→ View Project](https://img.shields.io/badge/View_Project_→-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MohamadKanso/Dissertation)
+
 </div>
 </td>
 </tr>
 
+<!-- ── Row 4 ── -->
 <tr>
-<!-- WorkflowForge -->
 <td width="50%" valign="top">
 <div align="center">
-<h3>⚙️ WorkflowForge</h3>
 
-![Status](https://img.shields.io/badge/STATUS-NEW-ffd700?style=flat-square)
+### ⚙️ WorkflowForge
+
+![New](https://img.shields.io/badge/STATUS-NEW-ffd700?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-4EA94B?style=flat-square&logo=opensourceinitiative&logoColor=white)
-
-<br/>
+![Open Source](https://img.shields.io/badge/Open_Source-4EA94B?style=flat-square&logo=opensourceinitiative&logoColor=white)
 
 **Workflow intelligence engine.**<br/>
-Open-source system for transforming messy operational context into structured, repeatable execution pipelines. Bridges the gap between unstructured operational knowledge and reliable automated workflows.
+Transforms messy operational context into structured, repeatable execution systems. Bridges the gap between unstructured operational knowledge and reliable automated workflows. Open-source.
 
 <br/>
 
-[![View Project](https://img.shields.io/badge/View%20Project-%E2%86%92-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MohamadKanso/WorkflowForge)
+[![→ View Project](https://img.shields.io/badge/View_Project_→-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MohamadKanso/WorkflowForge)
+
 </div>
 </td>
-
-<!-- Trading ML Research -->
 <td width="50%" valign="top">
 <div align="center">
-<h3>📊 Trading ML Research</h3>
 
-![Runs](https://img.shields.io/badge/700%2B%20Runs%20Analysed-00d4ff?style=flat-square)
-![Samples](https://img.shields.io/badge/1500%2B%20Time--Series%20Samples-7b5ea7?style=flat-square)
+### 📊 Trading ML Research
 
-<br/>
+![700+ Runs](https://img.shields.io/badge/700%2B_Runs_Analysed-00d4ff?style=flat-square)
+![1500+ Samples](https://img.shields.io/badge/1500%2B_Time--Series-7b5ea7?style=flat-square)
 
 **Quantitative finance & ML research library.**<br/>
-Python analytics framework for sequential decision-making simulations: 700+ recorded runs under 5% max drawdown constraint, 1,500+ replayed time-series samples with structured tagging and statistical review to identify repeatable error patterns.
+Python analytics framework for sequential decision-making simulations: 700+ recorded runs under 5% max drawdown, 1,500+ replayed time-series samples with structured tagging and statistical analysis to identify repeatable error patterns.
 
 <br/>
 
-[![View Project](https://img.shields.io/badge/View%20Project-%E2%86%92-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MohamadKanso/trading-ml-research)
+[![→ View Project](https://img.shields.io/badge/View_Project_→-00d4ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MohamadKanso/trading-ml-research)
+
 </div>
 </td>
 </tr>
@@ -306,20 +324,33 @@ Python analytics framework for sequential decision-making simulations: 700+ reco
 </div>
 
 <br/>
-
-<!-- GRADIENT DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
-
 <br/>
+
+<!-- ════════════════════════════════════════════════════════════════
+     §4  STATS  —  profile summary cards + trio + activity graph
+     ════════════════════════════════════════════════════════════════ -->
 
 ## 📡 &nbsp; Deep Space Telemetry
 
+<!-- GitHub Profile Summary Cards – full row then 4-card row -->
 <div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohamadKanso&theme=tokyonight" alt="Profile Details"/>
+</div>
+<div align="center">
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohamadKanso&theme=tokyonight"    alt="Repos per Language"/><!--
+  --><img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohamadKanso&theme=tokyonight" alt="Most Commit Language"/><!--
+  --><img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohamadKanso&theme=tokyonight"                alt="Stats"/><!--
+  --><img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohamadKanso&theme=tokyonight&utcOffset=1" alt="Productive Time"/>
+</div>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=MohamadKanso&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b5ea7&text_color=c9d1d9&border_radius=8" alt="GitHub Stats"/>
-&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadKanso&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=8&langs_count=8" alt="Top Languages"/>
+<br/>
 
+<!-- Classic stats trio -->
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=MohamadKanso&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b5ea7&text_color=c9d1d9&border_radius=8" alt="GitHub Stats"/>
+  &nbsp;
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadKanso&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=8&langs_count=8" alt="Top Languages"/>
 </div>
 
 <div align="center">
@@ -328,22 +359,39 @@ Python analytics framework for sequential decision-making simulations: 700+ reco
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohamadKanso&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="GitHub Trophies"/>
-</div>
-
-<br/>
-
+<!-- Activity graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamadKanso&bg_color=0d1117&color=00d4ff&line=7b5ea7&point=ff6b9d&area=true&area_color=7b5ea720&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 <br/>
 
-<!-- GRADIENT DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohamadKanso&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" alt="GitHub Trophies"/>
+</div>
 
 <br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════
+     §5  3-D CONTRIBUTION CALENDAR  (generated by GitHub Action)
+     ════════════════════════════════════════════════════════════════ -->
+
+## 🪐 &nbsp; 3D Contribution Calendar
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar"/>
+</div>
+
+<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════
+     §6  ACHIEVEMENTS TABLE
+     ════════════════════════════════════════════════════════════════ -->
 
 ## 🏆 &nbsp; Orbit Log — Achievements
 
@@ -359,32 +407,34 @@ Python analytics framework for sequential decision-making simulations: 700+ reco
 </div>
 
 <br/>
-
-<!-- GRADIENT DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
-
 <br/>
+
+<!-- ════════════════════════════════════════════════════════════════
+     §7  CONTRIBUTION SNAKE  (generated by GitHub Action → output branch)
+     ════════════════════════════════════════════════════════════════ -->
 
 ## 🌀 &nbsp; Contribution Constellation
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/MohamadKanso/MohamadKanso/output/github-contribution-grid-snake-dark.svg"/>
+            srcset="https://raw.githubusercontent.com/MohamadKanso/MohamadKanso/output/snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/MohamadKanso/MohamadKanso/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution snake" width="100%"
-         src="https://raw.githubusercontent.com/MohamadKanso/MohamadKanso/output/github-contribution-grid-snake-dark.svg"/>
+            srcset="https://raw.githubusercontent.com/MohamadKanso/MohamadKanso/output/snake.svg"/>
+    <img alt="GitHub contribution snake animation"
+         src="https://raw.githubusercontent.com/MohamadKanso/MohamadKanso/output/snake-dark.svg"
+         width="100%"/>
   </picture>
 </div>
 
 <br/>
 
-<!-- ANIMATED FOOTER -->
+<!-- ░░░ VENOM FOOTER ░░░ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:04060f,25:0b0e28,55:1a0e3a,80:0b0e28,100:04060f&height=120&section=footer" alt="footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:03040d,25:080b22,55:180a36,80:080b22,100:03040d&height=120&section=footer" alt="footer"/>
 </div>
 
 <div align="center">
-  <i>✦ &nbsp; "The cosmos is within us. We are made of star-stuff." — Carl Sagan &nbsp; ✦</i>
+  <i>✦ &nbsp; "The cosmos is within us. We are made of star-stuff." &nbsp;—&nbsp; Carl Sagan &nbsp; ✦</i>
 </div>

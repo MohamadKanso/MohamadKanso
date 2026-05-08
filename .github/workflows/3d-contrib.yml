@@ -1,0 +1,29 @@
+name: Generate 3D Contribution Calendar
+
+on:
+  schedule:
+    - cron: "0 1 * * *"   # daily at 01:00 UTC (after snake runs)
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: 10
+
+      - name: Commit 3D calendar SVGs
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "profile-3d-contrib"
+          message: "Update 3D contribution calendar [skip ci]"
+          default_author: github_actions
