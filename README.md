@@ -13,12 +13,6 @@
        alt="Animated personal galaxy" width="100%"/>
 </div>
 
-<!-- ░░░ DEEP-SPACE ORBIT ANIMATION ░░░ -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MohamadKanso/MohamadKanso/main/assets/orbit.svg"
-       alt="Animated deep-space orbit" width="100%"/>
-</div>
-
 <!-- ░░░ TYPING SVG ░░░ -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=650&color=00D4FF&center=true&vCenter=true&width=800&height=50&lines=🛸+Building+local+LLM+systems+%7C+sub-2s+end-to-end+latency;🌌+GenAI+%40+Cognizant+%7C+UK+Government+AI+%26+Analytics;🚀+RAG+·+LangChain+·+Vector+DBs+·+Ollama+·+Local+LLMs;⚡+40%25+latency+reduction+on+50M-record+Databricks+pipelines;🔒+VoiceSafeKit+·+CodeSentry+·+MurmurX+·+DreamSense;🏆+CV+Challenge+Winner+·+Cognizant+Vibe+Challenge+Winner" alt="Typing SVG"/>
