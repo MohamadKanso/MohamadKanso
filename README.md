@@ -47,38 +47,33 @@
      §1  CODE BIO — Python class (rare, shows personality + depth)
      ════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
+```python
+class MohamadKanso:
+    """Python & GenAI Engineer | LLM Applications · RAG Systems · AI Automation"""
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td align="left" width="50%" valign="top">
+    role     = "Python & GenAI Engineer"
+    company  = "Cognizant  —  AI & Analytics Graduate"
+    location = "London, UK  🇬🇧"
+    degree   = "MSci Data Science  —  City, University of London  (2:1)"
 
-**🚀 &nbsp; Role** &nbsp; Python & GenAI Engineer<br/>
-**🏢 &nbsp; Company** &nbsp; Cognizant — AI & Analytics<br/>
-**📍 &nbsp; Location** &nbsp; London, UK 🇬🇧<br/>
-**🎓 &nbsp; Degree** &nbsp; MSci Data Science — City, University of London
+    stack = {
+        "genai_llms"  : ["LangChain", "RAG", "FAISS", "ChromaDB", "Ollama", "Whisper.cpp"],
+        "ai_ml"       : ["PyTorch", "scikit-learn", "XGBoost", "LightGBM", "MLflow"],
+        "data_cloud"  : ["PySpark", "Databricks", "Azure Data Factory", "PostgreSQL"],
+        "backend"     : ["Python", "Flask", "Docker", "GitHub Actions", "pytest"],
+        "local_ai"    : ["Llama 3.2", "Qwen-2.5 3B", "sub-2s latency", "zero cloud"],
+    }
 
-</td>
-<td align="left" width="50%" valign="top">
+    achievements = [
+        "40 % latency reduction across 50 M-record Databricks pipelines",
+        "80 % cost reduction via fully local LLM stack vs paid APIs",
+        "First-Class dissertation (76 %)  —  BTC/USD time-series LSTM",
+        "Computer Vision Challenge Winner  ·  Cognizant Vibe Challenge Winner",
+    ]
 
-**⚡ &nbsp;** 40% latency cut · 50M-record Databricks pipelines<br/>
-**💸 &nbsp;** 80% cost reduction via fully local LLM stack<br/>
-**🏆 &nbsp;** CV Challenge Winner · Cognizant Vibe Challenge Winner<br/>
-**📄 &nbsp;** First-Class dissertation (76%) — BTC/USD LSTM
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-| 🤖 GenAI & LLMs | 🧠 ML & Data | ☁️ Cloud & Infra | 🔊 Local AI |
-|:---:|:---:|:---:|:---:|
-| LangChain · RAG | PyTorch · XGBoost | PySpark · Databricks | Llama 3.2 · Qwen-2.5 |
-| FAISS · ChromaDB | scikit-learn · MLflow | Azure Data Factory | Whisper.cpp · Ollama |
-| LLM Agents · Evals | LightGBM · LSTM | PostgreSQL · Docker | Sub-2s · Zero Cloud |
-
-</div>
+    def current_mission(self) -> str:
+        return "Building enterprise RAG systems & LLM-backed automation @ Cognizant 🚀"
+```
 
 <br/>
 
