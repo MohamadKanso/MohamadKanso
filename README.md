@@ -47,12 +47,6 @@
      §1  CODE BIO — Python class (rare, shows personality + depth)
      ════════════════════════════════════════════════════════════════ -->
 
-<div align="center">
-
-### 🌌 &nbsp; Navigating the AI Frontier
-
-</div>
-
 ```python
 class MohamadKanso:
     """Python & GenAI Engineer | LLM Applications · RAG Systems · AI Automation"""
@@ -441,6 +435,3 @@ Python analytics framework for sequential decision-making simulations: 700+ reco
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:03040d,25:080b22,55:180a36,80:080b22,100:03040d&height=120&section=footer" alt="footer"/>
 </div>
 
-<div align="center">
-  <i>✦ &nbsp; "The cosmos is within us. We are made of star-stuff." &nbsp;—&nbsp; Carl Sagan &nbsp; ✦</i>
-</div>
