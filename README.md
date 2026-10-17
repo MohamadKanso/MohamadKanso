@@ -15,7 +15,7 @@
 
 <!-- ░░░ TYPING SVG ░░░ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=650&color=00D4FF&center=true&vCenter=true&width=800&height=50&lines=🛰️+Senior+Forward+Deployed+AI+Associate+%40+7IM;🤖+Building+%26+governing+production+AI+agents;🧬+Hermes+Agent+%7C+21+authored+%2B+13+co-authored+commits+on+main;🛸+Building+local+LLM+systems+%7C+sub-2s+end-to-end+latency;🚀+RAG+·+LangChain+·+Vector+DBs+·+Ollama+·+Local+LLMs;⚡+40%25+latency+reduction+on+50M-record+Databricks+pipelines;🔒+VoiceSafeKit+·+CodeSentry+·+MurmurX+·+DreamSense;🏆+CV+Challenge+Winner+·+Cognizant+Vibe+Challenge+Winner" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=650&color=00D4FF&center=true&vCenter=true&width=800&height=50&lines=%F0%9F%9B%B0%EF%B8%8F+Senior+Forward+Deployed+AI+Associate+%40+7IM;%F0%9F%A4%96+Building+%26+governing+production+AI+agents;%F0%9F%A7%AC+Hermes+Agent+%7C+21+authored+%2B+13+co-authored+commits+on+main;%F0%9F%9B%B8+Building+local+LLM+systems+%7C+sub-2s+end-to-end+latency;%F0%9F%9A%80+RAG+%C2%B7+LangChain+%C2%B7+Vector+DBs+%C2%B7+Ollama+%C2%B7+Local+LLMs;%E2%9A%A1+40%25+latency+reduction+on+50M-record+Databricks+pipelines;%F0%9F%94%92+VoiceSafeKit+%C2%B7+CodeSentry+%C2%B7+MurmurX+%C2%B7+DreamSense;%F0%9F%8F%86+CV+Challenge+Winner+%C2%B7+Cognizant+Vibe+Challenge+Winner" alt="Typing SVG"/>
 </div>
 
 <br/>
