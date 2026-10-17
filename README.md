@@ -4,7 +4,7 @@
 
 <!-- ░░░ VENOM HEADER — animated deep-space gradient ░░░ -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:03040d,25:080b22,55:180a36,80:080b22,100:03040d&height=220&text=MOHAMAD%20KANSO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=✦%20%20Python%20%C2%B7%20GenAI%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20AI%20Automation%20%20✦&descSize=15&descAlignY=62&descColor=8be9fd" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:03040d,25:080b22,55:180a36,80:080b22,100:03040d&height=220&text=MOHAMAD%20KANSO&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=✦%20%20Senior%20Forward%20Deployed%20AI%20Associate%20%C2%B7%20Production%20AI%20Agents%20%C2%B7%20AI%20Governance%20%20✦&descSize=15&descAlignY=62&descColor=8be9fd" alt="header"/>
 </div>
 
 <!-- ░░░ CUSTOM GALAXY — personalised spiral with project stars & tech labels ░░░ -->
@@ -15,7 +15,7 @@
 
 <!-- ░░░ TYPING SVG ░░░ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=650&color=00D4FF&center=true&vCenter=true&width=800&height=50&lines=🛸+Building+local+LLM+systems+%7C+sub-2s+end-to-end+latency;🌌+GenAI+%40+Cognizant+%7C+UK+Government+AI+%26+Analytics;🚀+RAG+·+LangChain+·+Vector+DBs+·+Ollama+·+Local+LLMs;⚡+40%25+latency+reduction+on+50M-record+Databricks+pipelines;🔒+VoiceSafeKit+·+CodeSentry+·+MurmurX+·+DreamSense;🏆+CV+Challenge+Winner+·+Cognizant+Vibe+Challenge+Winner" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=650&color=00D4FF&center=true&vCenter=true&width=800&height=50&lines=🛰️+Senior+Forward+Deployed+AI+Associate+%40+7IM;🤖+Building+%26+governing+production+AI+agents;🧬+Hermes+Agent+%7C+21+authored+%2B+13+co-authored+commits+on+main;🛸+Building+local+LLM+systems+%7C+sub-2s+end-to-end+latency;🚀+RAG+·+LangChain+·+Vector+DBs+·+Ollama+·+Local+LLMs;⚡+40%25+latency+reduction+on+50M-record+Databricks+pipelines;🔒+VoiceSafeKit+·+CodeSentry+·+MurmurX+·+DreamSense;🏆+CV+Challenge+Winner+·+Cognizant+Vibe+Challenge+Winner" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -43,10 +43,10 @@
 
 ```python
 class MohamadKanso:
-    """Python & GenAI Engineer | LLM Applications · RAG Systems · AI Automation"""
+    """Senior Forward Deployed AI Associate | Production AI Agents · LLM Systems · AI Governance"""
 
-    role     = "Python & GenAI Engineer"
-    company  = "Cognizant  —  AI & Analytics Graduate"
+    role     = "Senior Forward Deployed AI Associate"
+    company  = "7IM"
     location = "London, UK  🇬🇧"
     degree   = "MSci Data Science  —  City, University of London  (2:1)"
 
@@ -58,6 +58,11 @@ class MohamadKanso:
         "local_ai"    : ["Llama 3.2", "Qwen-2.5 3B", "sub-2s latency", "zero cloud"],
     }
 
+    open_source = {
+        "hermes_agent": "21 authored + 13 co-authored commits on main",
+        "record"      : "mohamadkanso.github.io/hermes-contributions",
+    }
+
     achievements = [
         "40 % latency reduction across 50 M-record Databricks pipelines",
         "80 % cost reduction via fully local LLM stack vs paid APIs",
@@ -66,14 +71,16 @@ class MohamadKanso:
     ]
 
     def current_mission(self) -> str:
-        return "Building enterprise RAG systems & LLM-backed automation @ Cognizant 🚀"
+        return "Building & governing production AI agents @ 7IM 🚀"
 ```
 
 <br/>
 
 <div align="center">
 
-![At Cognizant](https://img.shields.io/badge/🔭%20Currently%20%40-Cognizant%20·%20AI%20%26%20Analytics-00d4ff?style=flat-square&labelColor=0d1117)
+![At 7IM](https://img.shields.io/badge/🔭%20Currently%20%40-7IM%20·%20Forward%20Deployed%20AI-00d4ff?style=flat-square&labelColor=0d1117)
+&nbsp;
+[![Hermes Agent](https://img.shields.io/badge/🧬%20Hermes%20Agent-21%20authored%20%2B%2013%20co--authored%20commits%20on%20main-ffd700?style=flat-square&labelColor=0d1117)](https://mohamadkanso.github.io/hermes-contributions/)
 &nbsp;
 ![London](https://img.shields.io/badge/📍-London%2C%20UK-7b5ea7?style=flat-square&labelColor=0d1117)
 &nbsp;
